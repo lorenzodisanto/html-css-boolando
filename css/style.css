@@ -116,7 +116,7 @@ header {
   z-index: 2;
 }
 
-.description span {
+.description .bold {
   color: red;
   font-weight: bold;
 }
