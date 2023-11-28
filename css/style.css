@@ -147,6 +147,10 @@ header {
   z-index: 2;
 }
 
+.heart:hover {
+  color: red;
+}
+
 .card .second-img {
   position: absolute;
   top: 0;
