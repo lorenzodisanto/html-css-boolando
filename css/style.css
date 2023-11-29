@@ -33,6 +33,7 @@ a {
 header {
   min-height: 75px;
   background-color: #ff6900;
+  box-shadow: 0px 2px 3px 0px #555;
   position: sticky;
   top: 0;
   z-index: 3;
